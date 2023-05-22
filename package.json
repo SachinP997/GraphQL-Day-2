@@ -1,0 +1,18 @@
+{
+  "name": "node_apollo_server_1_app-master",
+  "version": "1.0.0",
+  "description": "node_apollo_server_1_app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "command-to-start-development-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.6.0"
+  }
+}
